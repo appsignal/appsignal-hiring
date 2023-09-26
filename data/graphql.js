@@ -59,7 +59,7 @@ const hostnameDistribution = {
 
 const revisionDistribution = {
   name: "revision",
-  total: 220,
+  total: 204,
   unique: 20,
   __typename: "MetadataDistribution",
   distributions: [
