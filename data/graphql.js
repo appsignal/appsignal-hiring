@@ -3,7 +3,7 @@ const hostnameDistribution = {
   total: 200,
   unique: 10,
   __typename: "MetadataDistribution",
-  distibutions: [
+  distributions: [
     {
       key: "frontend1",
       value: 20,
@@ -62,7 +62,7 @@ const revisionDistribution = {
   total: 220,
   unique: 20,
   __typename: "MetadataDistribution",
-  distibutions: [
+  distributions: [
     {
       key: "abc1234",
       value: 50,
