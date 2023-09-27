@@ -15,7 +15,7 @@ We don't expect you to work for free; there will be compensation in the form of 
 
 The repository contains a [nextjs](https://nextjs.org) app with [tailwind](https://tailwindcss.com), [jest](https://jestjs.io) and [react-testing](https://testing-library.com/docs/react-testing-library/intro/) already setup.
 
-You can fork this repository to your own (GitHub) account, clone the repository and install the node packages.
+You can clone this repository and create a new repo on your own GitHub profile. You can either keep this public or invite us to your provate repository. Please don't use the fork button, as this will make your submission visible to other candidates.
 
 Commands to install the packages, run the app, and run the tests are below:
 
